@@ -1,0 +1,77 @@
+C:\Users\user\source\repos\20200330BusLED\20200330BusLED\bin\Debug\20200330BusLED.exe.config
+C:\Users\user\source\repos\20200330BusLED\20200330BusLED\bin\Debug\20200330BusLED.exe
+C:\Users\user\source\repos\20200330BusLED\20200330BusLED\bin\Debug\20200330BusLED.pdb
+C:\Users\user\source\repos\20200330BusLED\20200330BusLED\bin\Debug\20200330BusLED.xml
+C:\Users\user\source\repos\20200330BusLED\20200330BusLED\obj\Debug\20200330BusLED.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\20200330BusLED\20200330BusLED\obj\Debug\_20200330BusLED.Resources.resources
+C:\Users\user\source\repos\20200330BusLED\20200330BusLED\obj\Debug\20200330BusLED.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\20200330BusLED\20200330BusLED\obj\Debug\20200330BusLED.exe
+C:\Users\user\source\repos\20200330BusLED\20200330BusLED\obj\Debug\20200330BusLED.xml
+C:\Users\user\source\repos\20200330BusLED\20200330BusLED\obj\Debug\20200330BusLED.pdb
+C:\Users\user\source\repos\20200330BusLED\20200330BusLED\obj\Debug\_20200330BusLED.Start.resources
+C:\Users\user\Desktop\公車動態模擬\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe.config
+C:\Users\user\Desktop\公車動態模擬\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\公車動態模擬\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\公車動態模擬\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Resources.resources
+C:\Users\user\Desktop\公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Start.resources
+C:\Users\user\Desktop\公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\20200330公車動態模擬\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe.config
+C:\Users\user\Desktop\20200330公車動態模擬\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\20200330公車動態模擬\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\20200330公車動態模擬\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\20200330公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\20200330公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Resources.resources
+C:\Users\user\Desktop\20200330公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Start.resources
+C:\Users\user\Desktop\20200330公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\20200330公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\20200330公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\20200330公車動態模擬\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe.config
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜)\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Resources.resources
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜)\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Start.resources
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜 寶錄 立皓)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe.config
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜 寶錄 立皓)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜 寶錄 立皓)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜 寶錄 立皓)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜 寶錄 立皓)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜 寶錄 立皓)\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Resources.resources
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜 寶錄 立皓)\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Start.resources
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜 寶錄 立皓)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜 寶錄 立皓)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜 寶錄 立皓)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\20200330公車動態模擬(銓鼎 北圜 寶錄 立皓)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\公車站名播報模擬(完整版含測試資料)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe.config
+C:\Users\user\Desktop\公車站名播報模擬(完整版含測試資料)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\公車站名播報模擬(完整版含測試資料)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\公車站名播報模擬(完整版含測試資料)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\公車站名播報模擬(完整版含測試資料)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\公車站名播報模擬(完整版含測試資料)\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Resources.resources
+C:\Users\user\Desktop\公車站名播報模擬(完整版含測試資料)\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Start.resources
+C:\Users\user\Desktop\公車站名播報模擬(完整版含測試資料)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\公車站名播報模擬(完整版含測試資料)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\公車站名播報模擬(完整版含測試資料)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\公車站名播報模擬(完整版含測試資料)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe.config
+C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Resources.resources
+C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Start.resources
+C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.pdb
