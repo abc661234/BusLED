@@ -559,5 +559,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: "C:/Users/user/Desktop/20200330\u516C\u8ECA\u52D5\u614B\u6A21\u64EC(\u9293\u9F0E
-    \u5317\u571C)/Unity/BusLED.exe"
+  playerPath: C:/Users/user/Desktop/BusLED/Unity/BusLED.exe

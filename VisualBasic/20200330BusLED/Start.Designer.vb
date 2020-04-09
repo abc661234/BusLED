@@ -111,7 +111,7 @@ Partial Class Start
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Margin = New System.Windows.Forms.Padding(6, 7, 6, 7)
         Me.Name = "Start"
-        Me.Text = "公車站名播報模擬"
+        Me.Text = "公車站名播報模擬  by Petrix Huang"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

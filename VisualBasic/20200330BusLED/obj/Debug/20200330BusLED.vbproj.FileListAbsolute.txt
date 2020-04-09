@@ -75,3 +75,14 @@ C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330Bu
 C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.exe
 C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.xml
 C:\Users\user\Desktop\公車站名播報模擬(公開版)\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\BusLED\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe.config
+C:\Users\user\Desktop\BusLED\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\BusLED\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.pdb
+C:\Users\user\Desktop\BusLED\VisualBasic\20200330BusLED\bin\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\BusLED\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\BusLED\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Resources.resources
+C:\Users\user\Desktop\BusLED\VisualBasic\20200330BusLED\obj\Debug\_20200330BusLED.Start.resources
+C:\Users\user\Desktop\BusLED\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\BusLED\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.exe
+C:\Users\user\Desktop\BusLED\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.xml
+C:\Users\user\Desktop\BusLED\VisualBasic\20200330BusLED\obj\Debug\20200330BusLED.pdb

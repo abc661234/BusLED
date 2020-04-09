@@ -493,6 +493,50 @@ public class move : MonoBehaviour
             {
                 fullwidthChinese += "）";
             }
+            else if (chinese.Substring(i, 1) == "/")
+            {
+                fullwidthChinese += "／";
+            }
+            else if (chinese.Substring(i, 1) == "0")
+            {
+                fullwidthChinese += "０";
+            }
+            else if (chinese.Substring(i, 1) == "1")
+            {
+                fullwidthChinese += "１";
+            }
+            else if (chinese.Substring(i, 1) == "2")
+            {
+                fullwidthChinese += "２";
+            }
+            else if (chinese.Substring(i, 1) == "3")
+            {
+                fullwidthChinese += "３";
+            }
+            else if (chinese.Substring(i, 1) == "4")
+            {
+                fullwidthChinese += "４";
+            }
+            else if (chinese.Substring(i, 1) == "5")
+            {
+                fullwidthChinese += "５";
+            }
+            else if (chinese.Substring(i, 1) == "6")
+            {
+                fullwidthChinese += "６";
+            }
+            else if (chinese.Substring(i, 1) == "7")
+            {
+                fullwidthChinese += "７";
+            }
+            else if (chinese.Substring(i, 1) == "8")
+            {
+                fullwidthChinese += "８";
+            }
+            else if (chinese.Substring(i, 1) == "9")
+            {
+                fullwidthChinese += "９";
+            }
             else
             {
                 fullwidthChinese += chinese.Substring(i, 1);
